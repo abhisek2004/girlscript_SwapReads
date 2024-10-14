@@ -312,14 +312,15 @@ https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
 <div align='center'>
 
-[![Stargazers repo roster for @anuragverma108/SwapReads](https://reporoster.com/stars/anuragverma108/SwapReads)](https://github.com/anuragverma108/SwapReads/stargazers)
+[![Stargazers repo roster for @ManaS066/sih-hospital_](https://reporoster.com/stars/ManaS066/sih-hospital_)](https://github.com/ManaS066/sih-hospital_/stargazers)
 
 </div>
 
 ## Forkers
+
 <div align='center'>
 
-[![Forkers repo roster for @anuragverma108/SwapReads](https://reporoster.com/forks/anuragverma108/SwapReads)](https://github.com/anuragverma108/SwapReads/network/members)
+[![Forkers repo roster for @ManaS066/sih-hospital_](https://reporoster.com/forks/ManaS066/sih-hospital_)](https://github.com/ManaS066/sih-hospital_/network/members)
 
 </div>
 
